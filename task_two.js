@@ -48,6 +48,6 @@ class Phone {
 
   const googlePixel7Pro = new Phone("Google", "Pixel 7 Pro", 999, 6.7, 5000, "Google Tensor", "50MP Dual");
   
-  console.log(iphone14Pro);
+  console.log(infint4Pro);
   console.log(samsungGalaxyS23Ultra);
   console.log(googlePixel7Pro);
