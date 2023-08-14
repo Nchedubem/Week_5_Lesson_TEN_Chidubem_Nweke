@@ -1,4 +1,4 @@
-## Week_2_Lesson_TEN_Chidubem_Nweke
+## Week_5_Lesson_TEN_Chidubem_Nweke
 ## How to run/test this project
 * ensure you have git installed properly on your machine
 * ensure you have node js installed in your machine
